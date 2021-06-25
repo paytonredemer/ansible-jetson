@@ -1,0 +1,7 @@
+---
+ubuntu_release: focal
+
+new_user:
+  name: aaeon
+  shell: /bin/bash
+  password: aaeon
